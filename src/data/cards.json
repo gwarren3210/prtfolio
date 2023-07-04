@@ -1,0 +1,27 @@
+[
+   {
+      "title":"Privacy Token",
+      "description":"Privatley transact on the blockchain using fully horomorphically encrypted tokens.",
+      "href":"https://github.com/privacy-token-easyA/privacy-token-fhe"
+   },
+   {
+      "title":"NFT Minting Website",
+      "description":"Website connected to ehtereum smart contract to seemlessly mint NFTs",
+      "href":"https://helpful-seahorse-21ca9a.netlify.app/"
+   },
+   {
+      "title":"URepair",
+      "description":"A QR code based repair ticketing system built for UMass Amherst.",
+      "href":"https://github.com/CS320-Team-6/frontend"
+   },
+   {
+      "title":"AI LinkedIn Writer",
+      "description":"Generate LinkedIn posts using only a topic.",
+      "href":"https://github.com/gwarren3210/gpt3-linkdin-writer-chrome-extension"
+   },
+   {
+      "title":"Space Invaders",
+      "description":"A fun game built with python and tkinter",
+      "href":"https://github.com/gwarren3210/space-defender"
+   }
+]

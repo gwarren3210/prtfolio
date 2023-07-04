@@ -1,3 +1,5 @@
+Welcome to my portfolio! This is a work in progress, but I'm excited to share it with you. I'm using Next.js and TypeScript, to build this site. <!-- I'm also using [Framer Motion](https://www.framer.com/motion/) for animations. --> I'm using [Vercel](https://vercel.com/) to host this site.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
