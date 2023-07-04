@@ -8,7 +8,7 @@ export default function Hero() {
       <div className={styles.hero}>
          <div className={styles.hero_description}>
             <h1 className={styles.hero_title}>
-               Hello, I'm Gavriel
+               Hello, I&apos;m Gavriel
             </h1>
             <p>
                Welcome to my website!
