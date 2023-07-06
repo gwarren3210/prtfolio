@@ -17,8 +17,8 @@ const iconComponents: { [key: string]: IconType } = {
 export default function Header() {
     return (
         <header>
-            <nav>
-                <ul className={styles.header}>
+            <nav className={styles.header}>
+                <ul>
                     {socialMedia.map((link: SocialMediaLink, index: number) => {
                         const IconComponent = iconComponents[link.icon];
                         if (!IconComponent) return null;
@@ -30,8 +30,8 @@ export default function Header() {
                             </li>
                         );
                     })}
-                    <li>check my resume for my number ; &#x29;, I reply faster to texts</li>
                 </ul>
+                <p className={styles.desktopOnly}>check my resume for my number ; &#x29;, I reply faster to texts</p>
             </nav>
         </header>
     );
