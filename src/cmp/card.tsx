@@ -14,7 +14,7 @@ export default function Card(props: CardProps) {
          className={styles.card}
          target="_blank"
          rel="noopener noreferrer"
-      >
+      >pas
          <h3>
             {props.title} <span>-&gt;</span>
          </h3>

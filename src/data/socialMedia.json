@@ -1,0 +1,32 @@
+[
+   {
+       "name": "LinkedIn",
+       "url": "https://www.linkedin.com/in/gavriel-warren",
+       "icon": "FaLinkedin"
+   },
+   {
+       "name": "GitHub",
+       "url": "https://github.com/gwarren3210",
+       "icon": "FaGithub"
+   },
+   {
+       "name": "Twitter",
+       "url": "https://twitter.com/GWarren3210",
+       "icon": "FaTwitter"
+   },
+   {
+       "name": "Instagram",
+       "url": "https://instagram.com/gavrielwarren",
+       "icon": "FaInstagram"
+   },
+   {
+       "name": "Email",
+       "url": "mailto:gewarren@umass.edu",
+       "icon": "FaEnvelope"
+   },
+   {
+       "name": "Discord",
+       "url": "https://discord.com/users/gwarren#3210",
+       "icon": "FaDiscord"
+   }
+]
