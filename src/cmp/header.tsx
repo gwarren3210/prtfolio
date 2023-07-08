@@ -31,7 +31,7 @@ export default function Header() {
                         );
                     })}
                 </ul>
-                <p className={styles.desktopOnly}>check my resume for my number ; &#x29;, I reply faster to texts</p>
+                <p className={styles.desktopOnly}>Text me, I don&#39;t bite :&#41;</p>
             </nav>
         </header>
     );
