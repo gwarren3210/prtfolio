@@ -17,7 +17,7 @@ const iconComponents: { [key: string]: IconType } = {
 export default function Header() {
     return (
         <header>
-            <nav className={styles.header}>
+            <nav className={`${styles.header} ${styles.nav}`}>
                 <ul>
                     {socialMedia.map((link: SocialMediaLink, index: number) => {
                         const IconComponent = iconComponents[link.icon];
